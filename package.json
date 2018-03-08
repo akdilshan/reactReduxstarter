@@ -1,0 +1,19 @@
+{
+  "name": "reactstarter",
+  "version": "1.0.0",
+  "description": "react redux sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akdilshan/reactReduxstarter.git"
+  },
+  "author": "dilshan amarasinghe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akdilshan/reactReduxstarter/issues"
+  },
+  "homepage": "https://github.com/akdilshan/reactReduxstarter#readme"
+}
